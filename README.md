@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Gatsby, Flutter**
+- 🌱 I’m currently learning **Gatsby**
 
 - 💬 Ask me about **Java, GoLang**
 
@@ -17,7 +17,7 @@
     <a href="https://spring.io/" target="_blank" title="Spring"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
 </p>
 
-<h3 align="left">Languages and Tools: Have Knowledge and worked on and hobby</h3>
+<h3 align="left">Languages and Tools: Have Knowledge and worked on and as hobby also</h3>
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
@@ -33,7 +33,10 @@
 
 <h3 align="left">Languages and Tools: Currently Learning</h3>
 <p align="left"> 
-    <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
     <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Languages and Tools: Future Learning</h3>
+<p align="left">
+    <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
+</p>    
